@@ -1,4 +1,4 @@
-# Transhimalaja. Dritter Band.
+# Die Fahrt der Deutschland.
 
 This is a git repository of the source files for the book
 "Die Fahrt der Deutschland"
