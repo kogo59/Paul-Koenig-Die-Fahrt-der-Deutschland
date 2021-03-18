@@ -7,7 +7,7 @@ CHAPTERS = chapters/*.md
 TOC = --toc --toc-depth=3
 IMAGES_FOLDER = images
 IMAGES = $(IMAGES_FOLDER)/*
-COVER_IMAGE = $(IMAGES_FOLDER)/cover3.jpg
+COVER_IMAGE = $(IMAGES_FOLDER)/cover1.jpg
 LATEX_CLASS = book
 MATH_FORMULAS = --webtex
 CSS_FILE = blitz.css
