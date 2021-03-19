@@ -1,14 +1,14 @@
 # I&nbsp;<br />**`WIE WIR ZU “U-DEUTSCHLAND” KAMEN UND WIE “U-DEUTSCHLAND” MICH BEKAM.`**<br /><br /> {#Kapitel_I .unnumbered}
 
 ::: justified
-**W**ie wir zu “U-Deutschland”^[^0001]^ kamen? Das wäre eine lange Geschichte.
+Wie wir zu “U-Deutschland”^[^0001]^ kamen? Das wäre eine lange Geschichte.
 Die muss ich Berufeneren zu erzählen überlassen. Das Wichtigste davon ist
 in den Reden gesagt, die nach der Rückkehr der “Deutschland” im Bremer
 Rathaus das welthistorische Geschehnis feierten, und die man bei der
 Schilderung unseres Empfangs am Ende dieses Buches lesen wird.
 
 Für mich ist der Gedanke, Unterwasser-Frachtschiffe für lange Fahrt zu
-bauen, der Ausdruck des Willens im deutschen Volke, die englische Blokkade
+bauen, der Ausdruck des Willens im deutschen Volke, die englische Blockade
 unserer und Amerikas Küsten sowie die völlige Absperrung unserer
 rechtmässigen Handelszufuhr zu vereiteln. Hanseatischer Unternehmungsgeist,
 das technische Ingenium des deutschen Schiffbaues und die Leistungsfähigkeit
@@ -132,7 +132,7 @@ so massig aus dem Wasser wölbte, konnte man ahnen, wie
 gewaltig der ganze Rumpf sein musste.
 
 :::: margin-left-s
-|        
+|
 |     Mit stolzem Entzücken umfasste
 |     mein Blick das ganze Gebilde, das sich
 |     unter mir leise wiegte, Feinheit und
@@ -149,14 +149,8 @@ Brüstung des Turmes von “U-Deutschland” und gelobte ihr Treue.
 So bekam mich “U-Deutschland,” so wurde ich Kommandant des ersten
 Unterwasser-Frachtschiffes.
 
-
-
 :::
 
-
-:::: align-center
-****
-::::
 
 #### **Anmerkungen** {.break-before .unnumbered}
 

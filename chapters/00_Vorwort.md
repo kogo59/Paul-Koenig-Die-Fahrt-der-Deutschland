@@ -19,7 +19,7 @@
 # Vorwort.<br /> {#VORWORT .unnumbered}
 
 :::: justified
-Die Fahrt des Handels-Unterseebootes ‘‘Deutschland’’ hat lange genug
+Die Fahrt des Handels-Unterseebootes “Deutschland” hat lange genug
 die öffentliche Meinung der Alten und Neuen Welt in Spannung gehalten. Die
 wildesten Gerüchte über unsere Fahrt und unser Schicksal sind in einer ganzen
 Reihe von Zeitungen aufgetaucht, der schönen Phantasien gar nicht zu gedenken,
@@ -52,7 +52,7 @@ undankbar, das nicht auzuerkennen.
 Einen besonderen Dank aber will ich hier noch meinen beiden Wachoffizieren,
 Krapohl und Eyring, aussprechen. Die Aufzeichnungen dieser beiden
 Herren ergänzten meine Darstellung in vielen Punkten. Man kann
-nicht immer auf dem Turm—fast hätte ich in alter Gewohnheit “Brücke’’
+nicht immer auf dem Turm—fast hätte ich in alter Gewohnheit “Brücke”
 gesagt—stehen, und sechs Augen sehen mehr als zwei. Sehen muss man aber
 auf dem U-Boot vor allem. Eine ganze Reihe der hier erzählten Vorfälle entstammt
 den Beobachtungen meiner Offiziere. Wie sie auf der Fahrt meine
@@ -70,74 +70,72 @@ DER VERFASSER
 ::: { .fs-s }
 * [Paul König. Nach einer am 9. Juli 1916 in Baltimore genommenen Photographie.](ch001.xhtml#koenig)
 
-* Paul König. Nach einer vor dem Krieg in Bremen
-  hergestellten Photographie
+* [Paul König. Nach einer vor dem Krieg in Bremen hergestellten Photographie.](ch004.xhtml#b0039)
 
-* Die ‘‘Deutschland’’ in der Chesapeake Bai auf der
-   Fahrt nach Baltimore
+* [Die “Deutschland” in der Chesapeake Bai auf der Fahrt nach Baltimore](ch004.xhtml#b0040)
 
 * Der amerikanische Leiter der Deutschen Ozean-Reederei bewillkommnet Kapitän König
    bei seiner Ankunft an der Quarantäne in Baltimore
 
 * Gruppe für die erste amerikanische Photographie.
-  Ein Teil der Mannschaft der ‘‘Deutschland’’ auf
+  Ein Teil der Mannschaft der “Deutschland” auf
   der Fahrt in der Chesapeake Bai
 
-* Der Schlepper ‘‘Timmins’’, die ‘‘Deutschland’’ auf
+* Der Schlepper “Timmins”, die “Deutschland” auf
  der Fahrt von der Quarantäne nach Baltimore begleitend
 
-* Dreiviertel Ansicht vom Heck der ‘‘Deutschland’’ als
+* Dreiviertel Ansicht vom Heck der “Deutschland” als
   das Schiff an seinem Landungsplatz in Baltimore anfuhr
 
 * Annäherung zum Pier in Baltimore. Eine Ansicht,
   welche die eigentümliche Bauart des Schiffes darstellt
 
-* Die ‘‘Deutschland’’ am Pier in Baltimore
+* Die “Deutschland” am Pier in Baltimore
 
 * Links — Kapitän Hans T. Hinsch, vom Norddeutschen Lloyd;
   Mitte — Kapitän Paul König;
   Rechts — Paul G. L. Hilken, Vertreter der Deutschen Ozean-Reederei in Amerika
 
 * Am Land in Baltimore nach vielen Tagen auf See.
-  Das erste Bild der Mannschaft der ‘‘Deutschland’’;
+  Das erste Bild der Mannschaft der “Deutschland”;
   nach der Ankunft in Amerika genommen
 
 * Kapitän Paul König. Photographie bei Ankunft der
-  ‘‘Deutschland’’ in Baltimore
+  “Deutschland” in Baltimore
 
 * Nahe Ansicht des Kommandoturms und Periskops
 
 * Paul G. L. Hilken, Leiter der Deutschen Ocean-Reederei in Amerika
 
 * Die erste Autograph-Photographie nach Ankunft der
-  ‘‘Deutschland’’ in Amerika, unterzeichnet von
+  “Deutschland” in Amerika, unterzeichnet von
   Kapitän Paul König, Erster Offizier F. W. Krapohl,
   Erster Ingenieur H. Klees'
 
-* Die letzte Photographie der ‘‘Deutschland’’  als sie
+* Die letzte Photographie der “Deutschland”  als sie
   Baltimore verliess. Die Fahrt zum Ozean durch
   die Chesapeake Bai
 
 * Die Schöpfer des Untersee-Frachtdienstes: Direktor
-  Zetzmann, Erbauer der ‘‘Deutschland’’; Alfred
+  Zetzmann, Erbauer der “Deutschland”; Alfred
   Lohmann, Gründer der Deutschen Ozean-Reederei
 
 * Auf der Weser nach Bremen. Enthusiastischer
-  Empfang der heimkehrenden ‘‘Deutschland’’
+  Empfang der heimkehrenden “Deutschland”
 
 * Breitseite des Tauchschiffes
 
-* Die ‘‘Deutschland’’, voll beflaggst, die deutsche
+* Die “Deutschland”, voll beflaggst, die deutsche
   Flagge am Vordermast, die Vereinigte Staaten
   Flagge am Heck, sich der Wesermündung nähernd
 
-* Die Rückkehr zur Heimat. Die ‘‘Deutschland’’ in der
+* Die Rückkehr zur Heimat. Die “Deutschland” in der
   Wesermündung
 
-* Endlich in der Heimat. Die ‘‘Deutschland’’ an ihrem
+* Endlich in der Heimat. Die “Deutschland” an ihrem
   Pier in Bremen
 
-* Empfang der Besatzung der ‘‘Deutschland’’ vor dem
+* Empfang der Besatzung der “Deutschland” vor dem
   Rathaus  in Bremen
 
 * Kapitän König und Dr. Alfred Lohmann, Präsident
@@ -148,12 +146,12 @@ DER VERFASSER
   Menge zählte viele Tausende. Die Offiziere und
   Mannschaft dankt für die Hochrufe
 
-* Portraits der Offiziere und Mannschaft der ‘‘Deutschland’’. Bei der Ankunft in der
+* Portraits der Offiziere und Mannschaft der “Deutschland”. Bei der Ankunft in der
  Wesermündung am 23. August genommen
 
-* Innere Ansicht der ‘‘Deutschland’’ Der Zentral-Leitungs- oder Navigations-Raum
+* Innere Ansicht der “Deutschland” Der Zentral-Leitungs- oder Navigations-Raum
 
-* Die “‘Deutschland’’ auf der Werft. Photographie am
+* Die “‘Deutschland” auf der Werft. Photographie am
   Tage vor dem Stapellauf genommen
 :::
 
