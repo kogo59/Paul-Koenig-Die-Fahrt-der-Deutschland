@@ -12,11 +12,8 @@
 |      dem Führer des ersten.
 |        deutschen Handels-U-Bootes.<br />
 
-::: { .align-center  .break-after }
-<br /><br /><br /><br />[vi]
-:::
 
-# Vorwort.<br /> {#VORWORT .unnumbered}
+# VORWORT<br /> {#VORWORT .unnumbered}
 
 :::: justified
 Die Fahrt des Handels-Unterseebootes “Deutschland” hat lange genug
@@ -41,7 +38,7 @@ unsere wertvolle Fracht nach Amerika zu bringen, die englische Blockade zum
 besten zu haben und mit ebenso wertvoller Ladung wieder sicher zurückzukommen.
 Das haben wir erreicht, und das soll hier geschildert werden.
 Wenn es schliesslich dabei doch nicht immer so ganz glatt abgegangen ist,
-wenn es gelegentlich doch verteufelt “dicke Luft’ gab und manches gar
+wenn es gelegentlich doch verteufelt “dicke Luft” gab und manches gar
 nicht sehr Programmässige passierte, so verdanken meine Leser diese kleinen
 spannenden Beigaben den liebenswürdigen Bemühungen der Engländer. Unsere
 Fahrt freilich haben sie trotz alledem nicht zu hindern vermocht, aber
@@ -52,8 +49,8 @@ undankbar, das nicht auzuerkennen.
 Einen besonderen Dank aber will ich hier noch meinen beiden Wachoffizieren,
 Krapohl und Eyring, aussprechen. Die Aufzeichnungen dieser beiden
 Herren ergänzten meine Darstellung in vielen Punkten. Man kann
-nicht immer auf dem Turm—fast hätte ich in alter Gewohnheit “Brücke”
-gesagt—stehen, und sechs Augen sehen mehr als zwei. Sehen muss man aber
+nicht immer auf dem Turm — fast hätte ich in alter Gewohnheit “Brücke”
+gesagt — stehen, und sechs Augen sehen mehr als zwei. Sehen muss man aber
 auf dem U-Boot vor allem. Eine ganze Reihe der hier erzählten Vorfälle entstammt
 den Beobachtungen meiner Offiziere. Wie sie auf der Fahrt meine
 getreuen, nie ermüdenden Gefährten
@@ -65,27 +62,22 @@ Leser wohl auch.
 DER VERFASSER
 :::
 
-## Abbildungen
+## ABBILDUNGEN
 
 ::: { .fs-s }
 * [Paul König. Nach einer am 9. Juli 1916 in Baltimore genommenen Photographie.](ch001.xhtml#koenig)
 
 * [Paul König. Nach einer vor dem Krieg in Bremen hergestellten Photographie.](ch004.xhtml#b0039)
 
-* [Die “Deutschland” in der Chesapeake Bai auf der Fahrt nach Baltimore](ch004.xhtml#b0040)
+* [Die “Deutschland” in der Chesapeake Bai auf der Fahrt nach Baltimore.](ch004.xhtml#b0040)
 
-* Der amerikanische Leiter der Deutschen Ozean-Reederei bewillkommnet Kapitän König
-   bei seiner Ankunft an der Quarantäne in Baltimore
+* [Der amerikanische Leiter der Deutschen Ozean-Reederei bewillkommnet Kapitän König bei seiner Ankunft an der Quarantäne in Baltimore.](ch005.xhtml#b0057)
 
-* Gruppe für die erste amerikanische Photographie.
-  Ein Teil der Mannschaft der “Deutschland” auf
-  der Fahrt in der Chesapeake Bai
+* [Gruppe für die erste amerikanische Photographie. Ein Teil der Mannschaft der “Deutschland” auf der Fahrt in der Chesapeake Bai](ch005.xhtml#b0058)
 
-* Der Schlepper “Timmins”, die “Deutschland” auf
- der Fahrt von der Quarantäne nach Baltimore begleitend
+* [Der Schlepper “Timmins”, die “Deutschland” auf der Fahrt von der Quarantäne nach Baltimore begleitend.](ch006.xhtml#b0075)
 
-* Dreiviertel Ansicht vom Heck der “Deutschland” als
-  das Schiff an seinem Landungsplatz in Baltimore anfuhr
+* [Dreiviertel Ansicht vom Heck der “Deutschland” als das Schiff an seinem Landungsplatz in Baltimore anfuhr.](ch006.xhtml#b0075)
 
 * Annäherung zum Pier in Baltimore. Eine Ansicht,
   welche die eigentümliche Bauart des Schiffes darstellt

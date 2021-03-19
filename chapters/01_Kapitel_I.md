@@ -20,7 +20,7 @@ Umwälzungen der Bau und Betrieb von Unterwasser-Frachtschiffen zur Folge
 haben wird. Es ist möglich, dass das ganze Seekriegswesen sich umgestaltet,
 dass neue völkerrechtliche Begriffe und Bestimmungen geschaffen werden, und
 dass damit Verschiebungen in den Marktverhältnissen der Welt entstehen
-werden, die das Leben der Völker eınschneidender beeinflussen können, als
+werden, die das Leben der Völker einschneidender beeinflussen können, als
 selbst der gegenwärtige Weltkrieg es vermag. Es sieht aus, als stünde die
 Menschheit vor einer neuen Epoche ihrer Geschichte.
 
@@ -36,7 +36,7 @@ aber besteht im Wegtauchen. Und auch das kann man mit solch einem
 grossen, fast zweitausend Tonnen fassenden Schiff nicht überall.
 
 Ich sah mich also mit dem Auftrag, “U-Deutschland” nach Amerika zu
-bringen, vor eine ganz neue und eigen- artige Aufgabe gestellt, die mir auch
+bringen, vor eine ganz neue und eigenartige Aufgabe gestellt, die mir auch
 neu gewesen wäre, wenn ich nicht ein alter Lloyd-Kapitän und  “dicker Dampfer”-Führer,
 sondern ein junger Frontboot-Kommandant gewesen wäre.
 
@@ -137,7 +137,7 @@ gewaltig der ganze Rumpf sein musste.
 |     mein Blick das ganze Gebilde, das sich
 |     unter mir leise wiegte, Feinheit und
 |     Wucht sinnvoll vereinend.
-| <br />
+| <br /><br />
 ::::
 
 Nun wusste ich: was mir zuvor wie eine Ausgeburt ausschweifender Technikerphantasie

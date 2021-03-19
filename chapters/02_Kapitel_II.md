@@ -1,4 +1,4 @@
-# II&nbsp;<br />**`Erprobung und Ausfahrt.`**<br /><br /> {#Kapitel_II .unnumbered}
+# III&nbsp;<br />**`ERPROBUNG UND AUSFAHRT`**<br /><br /> {#Kapitel_II .unnumbered}
 
 ::: justified
 Nun kam eine seltsame und wunderbare Zeit, Tag für Tag ging es hinaus in
@@ -25,7 +25,7 @@ entlocken.
 Ein Unterseeboot ist launisch wie
 eine Frau und verletzlich wie ein Rennpferd; es ist bieder wie ein
 Trampdampfer und zuverlässig wie ein Schlepper;
-es kann gute Eigenschaften haben und ——- nicht gute ; es kann lenkbar
+es kann gute Eigenschaften haben und ——- nicht gute; es kann lenkbar
 sein wie eine Rennyacht und bocken wie ein Karrengaul, und es
 gehorcht nur dem, der es bis in seine letzten technischen
 Einzelheiten kennt.
@@ -56,7 +56,7 @@ sorgfältigsten Trimm gebracht worden. Wir fassten Proviant für die lange Reise
 und zuletzt kamen noch Zigarren und — Grammaphonplatten an Bord.
 
 Damit waren für uns alle möglichen Genüsse sicher gestellt, und
- “U-Deutschland” war fahrbereit.
+“U-Deutschland” war fahrbereit.
 
 Auch wir waren bereit. Das Abschiednehmen von allen Lieben in der
 Heimat lag Gott sei Dank hinter uns; es ist bei solch einer Fahrt ins
@@ -79,7 +79,7 @@ Der grosse Augenblick ist da.
 ::::
 
 :::: {.wrap-100 }
-![Die “Deutschland” in der Chesapeake Bai auf der Fahrt nach Baltimore](Die_Fahrt_der_Deutschland_0040.jpg "Die “Deutschland” in der Chesapeake Bai auf der Fahrt nach Baltimore"){#b0040}
+![DIE “DEUTSCHLAND” IN DER CHESAPEAKE BAI AUF DER FAHRT NACH BALTIMORE.](Die_Fahrt_der_Deutschland_0040.jpg "DIE “DEUTSCHLAND” IN DER CHESAPEAKE BAI AUF DER FAHRT NACH BALTIMORE"){#b0040}
 ::::
 
 Der Maschinentelegraph auf dem dicken kleinen Schlepper klingelt, das
@@ -111,8 +111,8 @@ Schraubenwasser, das wirbelnd und schmutzig an Backbord um den runden
 Leib der “Deutschland” aufquillt, an Steuerbord schnell achteraus getrieben
 wird, erkenne ich, dass die Maschinen in Gang sind. Langsam dreht sich der
 grosse grüne Walfischrücken, legt erst quer zum Fahrwasser, geht nach
-Backbord etwas vorwärts, bleibt liegen und schiebt sich mit Schlepper-
-hilfe noch einmal über Steuerbord nach achtern.
+Backbord etwas vorwärts, bleibt liegen und schiebt sich mit
+Schlepperhilfe noch einmal über Steuerbord nach achtern.
 
 “Beide Maschinen stopp!”
 
