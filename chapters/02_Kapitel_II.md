@@ -1,4 +1,4 @@
-# III&nbsp;<br />**`ERPROBUNG UND AUSFAHRT`**<br /><br /> {#Kapitel_II .unnumbered}
+# II&nbsp;<br />**`ERPROBUNG UND AUSFAHRT`**<br /><br /> {#Kapitel_II .unnumbered}
 
 ::: justified
 Nun kam eine seltsame und wunderbare Zeit, Tag für Tag ging es hinaus in

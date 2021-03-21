@@ -79,10 +79,9 @@ DER VERFASSER
 
 * [Dreiviertel Ansicht vom Heck der “Deutschland” als das Schiff an seinem Landungsplatz in Baltimore anfuhr.](ch006.xhtml#b0075)
 
-* Annäherung zum Pier in Baltimore. Eine Ansicht,
-  welche die eigentümliche Bauart des Schiffes darstellt
+* [Annäherung zum Pier in Baltimore. Eine Ansicht, welche die eigentümliche Bauart des Schiffes darstellt.](ch008.xhtml#b0093)
 
-* Die “Deutschland” am Pier in Baltimore
+* [Die “Deutschland” am Pier in Baltimore.](ch008.xhtml#b0094)
 
 * Links — Kapitän Hans T. Hinsch, vom Norddeutschen Lloyd;
   Mitte — Kapitän Paul König;
