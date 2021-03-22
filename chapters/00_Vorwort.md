@@ -83,20 +83,15 @@ DER VERFASSER
 
 * [Die “Deutschland” am Pier in Baltimore.](ch008.xhtml#b0094)
 
-* Links — Kapitän Hans T. Hinsch, vom Norddeutschen Lloyd;
-  Mitte — Kapitän Paul König;
-  Rechts — Paul G. L. Hilken, Vertreter der Deutschen Ozean-Reederei in Amerika
+* [Links — Kapitän Hans T. Hinsch, vom Norddeutschen Lloyd; Mitte — Kapitän Paul König; Rechts — Paul G. L. Hilken, Vertreter der Deutschen Ozean-Reederei in Amerika.](ch009.xhtml#b0111)
 
-* Am Land in Baltimore nach vielen Tagen auf See.
-  Das erste Bild der Mannschaft der “Deutschland”;
-  nach der Ankunft in Amerika genommen
+* [Am Land in Baltimore nach vielen Tagen auf See. Das erste Bild der Mannschaft der “Deutschland”; nach der Ankunft in Amerika genommen.](ch009.xhtml#b0112)
 
-* Kapitän Paul König. Photographie bei Ankunft der
-  “Deutschland” in Baltimore
+* [Kapitän Paul König. Photographie bei Ankunft der “Deutschland” in Baltimore.](ch009.xhtml#b0129)
 
 * Nahe Ansicht des Kommandoturms und Periskops
 
-* Paul G. L. Hilken, Leiter der Deutschen Ocean-Reederei in Amerika
+* [Paul G. L. Hilken, Leiter der Deutschen Ocean-Reederei in Amerika.](ch009.xhtml#b0130)
 
 * Die erste Autograph-Photographie nach Ankunft der
   “Deutschland” in Amerika, unterzeichnet von
