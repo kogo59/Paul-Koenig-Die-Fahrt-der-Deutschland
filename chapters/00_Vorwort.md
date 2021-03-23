@@ -89,31 +89,22 @@ DER VERFASSER
 
 * [Kapitän Paul König. Photographie bei Ankunft der “Deutschland” in Baltimore.](ch009.xhtml#b0129)
 
-* Nahe Ansicht des Kommandoturms und Periskops
+* [Nahe Ansicht des Kommandoturms und Periskops.](ch010.xhtml#b0147)
 
 * [Paul G. L. Hilken, Leiter der Deutschen Ocean-Reederei in Amerika.](ch009.xhtml#b0130)
 
-* Die erste Autograph-Photographie nach Ankunft der
-  “Deutschland” in Amerika, unterzeichnet von
-  Kapitän Paul König, Erster Offizier F. W. Krapohl,
-  Erster Ingenieur H. Klees'
+* [Die erste Autograph-Photographie nach Ankunft der “Deutschland” in Amerika, unterzeichnet von Kapitän Paul König, Erster Offizier F. W. Krapohl, Erster Ingenieur H. Klees.](ch010.xhtml#b0148)
 
-* Die letzte Photographie der “Deutschland”  als sie
-  Baltimore verliess. Die Fahrt zum Ozean durch
-  die Chesapeake Bai
+* [Die letzte Photographie der “Deutschland”  als sie Baltimore verliess. Die Fahrt zum Ozean durch die Chesapeake Bai.](ch011.xhtml#b0165)
 
-* Die Schöpfer des Untersee-Frachtdienstes: Direktor
-  Zetzmann, Erbauer der “Deutschland”; Alfred
-  Lohmann, Gründer der Deutschen Ozean-Reederei
+* Die Schöpfer des Untersee-Frachtdienstes: [Direktor Zetzmann,](ch011.xhtml#b0166a) Erbauer der “Deutschland”; [Alfred Lohmann,](ch011.xhtml#b0166a) Gründer der Deutschen Ozean-Reederei.
 
 * Auf der Weser nach Bremen. Enthusiastischer
   Empfang der heimkehrenden “Deutschland”
 
-* Breitseite des Tauchschiffes
+* [Breitseite des Tauchschiffes.](ch012.xhtml#b0201)
 
-* Die “Deutschland”, voll beflaggst, die deutsche
-  Flagge am Vordermast, die Vereinigte Staaten
-  Flagge am Heck, sich der Wesermündung nähernd
+* [Die “Deutschland”, voll beflaggt, die deutsche Flagge am Vordermast, die Vereinigte Staaten Flagge am Heck, sich der Wesermündung nähernd.](ch012.xhtml#b0202)
 
 * Die Rückkehr zur Heimat. Die “Deutschland” in der
   Wesermündung

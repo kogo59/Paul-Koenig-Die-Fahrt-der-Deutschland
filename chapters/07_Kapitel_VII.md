@@ -290,7 +290,7 @@ wunderbares, absolut sicheres Meerwellenbad zu geniessen.
 :::
 
 ::: {.wrap-30 .break-before}
-![PAUL G. L. HILKEN, <small>Leiter der Deutschen Ocean-Reederei in Amerika.</small>](Die_Fahrt_der_Deutschland_0130.jpg "[PAUL G. L. HILKEN"){#b0129}
+![PAUL G. L. HILKEN, <small>Leiter der Deutschen Ocean-Reederei in Amerika.</small>](Die_Fahrt_der_Deutschland_0130.jpg "PAUL G. L. HILKEN"){#b0130}
 :::
 
 Wir haben das denn auch häufig genug ausgenutzt und prachtvoll gebadet.
