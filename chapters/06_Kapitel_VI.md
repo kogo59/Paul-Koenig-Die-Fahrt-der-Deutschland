@@ -34,13 +34,13 @@ Versenktwerden geschützt. Davon waren wir überzeugt, und wie sehr wir
 damit im Recht waren, zeigte später die
 offizielle Erklärung der englischen und französchen Regierungen.
 
-::: {.wrap-70 .break-before}
+:::: {.wrap-70 .break-before}
 ![ANNÄHERUNG ZUM PIER IN BALTIMORE. <small>Eine Ansicht, welche die eigentümliche Bauart des Schiffes darstellt.</small>](Die_Fahrt_der_Deutschland_0093.jpg "ANNÄHERUNG ZUM PIER IN BALTIMORE."){#b0093}
-:::
+::::
 
-::: {.wrap-100 }
+:::: {.wrap-100 }
 ![DIE “DEUTSCHLAND” AM PIER IN BALTIMORE.](Die_Fahrt_der_Deutschland_0094.jpg "[DIE “DEUTSCHLAND” AM PIER IN BALTIMORE."){#b0094}
-:::
+::::
 
 Hatten sie uns aber erst einmal als
 Handels-U-Boot erkannt, dann waren

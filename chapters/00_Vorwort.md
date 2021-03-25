@@ -106,25 +106,17 @@ DER VERFASSER
 
 * [Die “Deutschland”, voll beflaggt, die deutsche Flagge am Vordermast, die Vereinigte Staaten Flagge am Heck, sich der Wesermündung nähernd.](ch012.xhtml#b0202)
 
-* Die Rückkehr zur Heimat. Die “Deutschland” in der
-  Wesermündung
+* [Die Rückkehr zur Heimat. Die “Deutschland” in der Wesermündung.](ch013.xhtml#b0219)
 
-* Endlich in der Heimat. Die “Deutschland” an ihrem
-  Pier in Bremen
+* [Endlich in der Heimat. Die “Deutschland” an ihrem Pier in Bremen.](ch013.xhtml#b0220)
 
-* Empfang der Besatzung der “Deutschland” vor dem
-  Rathaus  in Bremen
+* [Empfang der Besatzung der “Deutschland” vor dem Rathaus in Bremen.](ch015.xhtml#b0237)
 
-* Kapitän König und Dr. Alfred Lohmann, Präsident
-  der Deutschen Ozean-Reederei, nach dem Empfang
-  des Kapitän König in Bremen
+* [Kapitän König und Dr. Alfred Lohmann, Präsident der Deutschen Ozean-Reederei, nach dem Empfang des Kapitän König in Bremen.](ch015.xhtml#b0238)
 
-* Feier am Rathaus, Bremen, 25. August 1916. Die
-  Menge zählte viele Tausende. Die Offiziere und
-  Mannschaft dankt für die Hochrufe
+* [Feier am Rathaus, Bremen, 25. August 1916. Die Menge zählte viele Tausende. Die Offiziere und Mannschaft dankt für die Hochrufe.](ch015.xhtml#b0255)
 
-* Portraits der Offiziere und Mannschaft der “Deutschland”. Bei der Ankunft in der
- Wesermündung am 23. August genommen
+* [Portraits der Offiziere und Mannschaft der “Deutschland”. Bei der Ankunft in der Wesermündung am 23. August genommen.](ch015.xhtml#b0256)
 
 * Innere Ansicht der “Deutschland” Der Zentral-Leitungs- oder Navigations-Raum
 

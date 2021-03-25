@@ -303,15 +303,15 @@ Einzelheiten stimmt.
 Seine zweitausend Tonnen sind in dem schwankenden und entgleitenden Element in
 eine genaue Gleichgewichtslage gebracht.
 
-::: {.wrap-100 .break-before }
+:::: {.wrap-100 .break-before }
 ![BREITSEITE DES TAUCHSCHIFFES.](Die_Fahrt_der_Deutschland_0201.jpg "BREITSEITE DES TAUCHSCHIFFES."){#b0201}
-:::
-
-::: {.wrap-100 }
-![DIE “DEUTSCHLAND”, VOLL BEFLAGGT, DIE DEUTSCHE FLAGGE AM VORDERMAST, DIE VEREINIGTE STAATEN FLAGGE AM HECK, SICH DER WESERMÜNDUNG NÄHERND.](Die_Fahrt_der_Deutschland_0202.jpg "DIE “DEUTSCHLAND”, VOLL BEFLAGGT."){#b0202}
-:::
-
 ::::
+
+:::: {.wrap-100 }
+![DIE “DEUTSCHLAND”, VOLL BEFLAGGT, DIE DEUTSCHE FLAGGE AM VORDERMAST, DIE VEREINIGTE STAATEN FLAGGE AM HECK, SICH DER WESERMÜNDUNG NÄHERND.](Die_Fahrt_der_Deutschland_0202.jpg "DIE “DEUTSCHLAND”, VOLL BEFLAGGT."){#b0202}
+::::
+
+:::
 
 
 #### **Anmerkungen** {.break-before .unnumbered}

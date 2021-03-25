@@ -29,13 +29,13 @@ der durch die Spannungen der elektrisch überladenen Luft irritiert wird
 und zu streiken beginnt. Bis jetzt hat er uns jeden Tag die Heeresberichte
 der Station Nauen getreulich übermittelt.
 
-::: {.wrap-100 .break-before}
+:::: {.wrap-100 .break-before}
 ![NAHE ANSICHT DES KOMMANDOTURMS UND PERISKOPS.](Die_Fahrt_der_Deutschland_0147.jpg "NAHE ANSICHT DES KOMMANDOTURMS UND PERISKOPS."){#b0130}
-:::
+::::
 
-::: {.wrap-100 }
+:::: {.wrap-100 }
 ![DIE ERSTE AUTOGRAPH-PHOTOGRAPHIE NACH ANKUNFT DER “DEUTSCHLAND” IN AMERIKA, UNTERZEICHNET VON KAPITÄN PAUL KÖNIG, ERSTER OFFIZIER F. W. KRAPOHL, ERSTER INGENIEUR H. KLEES.](Die_Fahrt_der_Deutschland_0148.jpg "DIE ERSTE AUTOGRAPH-PHOTOGRAPHIE NACH ANKUNFT DER “DEUTSCHLAND” IN AMERIKA."){#b0130}
-:::
+::::
 
 Das Meeresleuchten behindert den Ausguck sehr stark; man ist manchmal geradezu
 geblendet, die Augen werden gereizt und der Blick unsicher gemacht durch das

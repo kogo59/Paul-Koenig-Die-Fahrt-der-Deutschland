@@ -92,17 +92,17 @@ Innerhalb der amerikanischen Hoheitsgrenze setzten wir Lichter und fuhren ruhig
 in die Einfahrt zwischen den Kaps, bis wir vor uns die rotweissen Topplichter des
 Lotsendampfers ausmachten.
 
-::: {.wrap-100 .break-before}
+:::: {.wrap-100 .break-before}
 ![DIE LETZTE PHOTOGRAPHIE DER “DEUTSCHLAND” ALS SIE BALTIMORE VERLIESS. <small>Die Fahrt zum Ozean durch die Chesapeake Bai.</small>](Die_Fahrt_der_Deutschland_0165.jpg "DIE LETZTE PHOTOGRAPHIE DER “DEUTSCHLAND” ALS SIE BALTIMORE VERLIESS."){#b0165}
-:::
+::::
 
-::: {.wrap-60 .break-before }
+:::: {.wrap-60 .break-before }
 ![DIE SCHÖPFER DES UNTERSEE-FRACHTDIENSTES: DIREKTOR ZETZMANN, <small>Erbauer der “Deutschland”;</small>](Die_Fahrt_der_Deutschland_0166a.jpg "DIREKTOR ZETZMANN"){#b0166a}
-:::
+::::
 
-:::{.wrap-60 .break-before }
+:::: {.wrap-60 .break-before }
 ![DIE SCHÖPFER DES UNTERSEE-FRACHTDIENSTES: ALFRED LOHMANN, <small>Gründer der Deutschen Ozean-Reederei.;</small>](Die_Fahrt_der_Deutschland_0166b.jpg "ALFRED LOHMANN"){#b0166b}
-:::
+::::
 
 Wir stoppten und zeigten das übliche Blaufeuer, worauf der Lotsendampfer sofort
 seinen Scheinwerfer auf uns richtete und, da er keine Umrisse eines Dampfers

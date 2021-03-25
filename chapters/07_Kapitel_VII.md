@@ -80,13 +80,13 @@ fallen die Wogen über den bebenden Bootskörper her, seine Bewegungen sind unve
 und ruckweise und bedeuten eine fürchterliche Beanspruchung aller Verbände.
 
 
-::: {.wrap-60 .break-before}
+:::: {.wrap-60 .break-before}
 ![LINKS — KAPITÄN HANS T. HINSCH, <small>vom Norddeutschen Lloyd;</small> MITTE — KAPITÄN PAUL KÖNIG; RECHTS — PAUL G. L. HILKEN, <small>Vertreter der Deutschen Ozean-Reederei in Amerika</small>](Die_Fahrt_der_Deutschland_0111.jpg "LINKS — KAPITÄN HANS T. HINSCH, MITTE — KAPITÄN PAUL KÖNIG, RECHTS — PAUL G. L. HILKEN"){#b0111}
-:::
+::::
 
-::: {.wrap-100 }
+:::: {.wrap-100 }
 ![AM LAND IN BALTIMORE NACH VIELEN TAGEN AUF SEE. <small>Das erste Bild der Mannschaft der “Deutschland”; nach der Ankunft in Amerika genommen</small>](Die_Fahrt_der_Deutschland_0112.jpg "AM LAND IN BALTIMORE NACH VIELEN TAGEN AUF SEE."){#b0112}
-:::
+::::
 
 Da kann man erproben, was für Material man unter sich hat, da zeigt es sich, wie
 genial die Linien des Bootes konstruiert sind, dass es selbst in solchem Hexenkessel
@@ -285,13 +285,13 @@ auf der Fahrt natürlich das Seewasser in diese grossen Räume hinein; man brauc
 nur durch die Öffnungen der entfernten Verschlussbleche einzusteigen, um ein
 wunderbares, absolut sicheres Meerwellenbad zu geniessen.
 
-::: {.wrap-30 .break-before}
+:::: {.wrap-30 .break-before}
 ![KAPITÄN PAUL KÖNIG. <small>Photographie bei Ankunft der “Deutschland” in Baltimore.</small>](Die_Fahrt_der_Deutschland_0129.jpg "KAPITÄN PAUL KÖNIG"){#b0129}
-:::
+::::
 
-::: {.wrap-30 .break-before}
+:::: {.wrap-30 .break-before}
 ![PAUL G. L. HILKEN, <small>Leiter der Deutschen Ocean-Reederei in Amerika.</small>](Die_Fahrt_der_Deutschland_0130.jpg "PAUL G. L. HILKEN"){#b0130}
-:::
+::::
 
 Wir haben das denn auch häufig genug ausgenutzt und prachtvoll gebadet.
 
