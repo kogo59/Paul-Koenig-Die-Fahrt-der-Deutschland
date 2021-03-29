@@ -99,8 +99,7 @@ DER VERFASSER
 
 * Die Schöpfer des Untersee-Frachtdienstes: [Direktor Zetzmann,](ch011.xhtml#b0166a) Erbauer der “Deutschland”; [Alfred Lohmann,](ch011.xhtml#b0166a) Gründer der Deutschen Ozean-Reederei.
 
-* Auf der Weser nach Bremen. Enthusiastischer
-  Empfang der heimkehrenden “Deutschland”
+* [Auf der Weser nach Bremen. Enthusiastischer Empfang der heimkehrenden “Deutschland”](ch012.xhtml#b0181)
 
 * [Breitseite des Tauchschiffes.](ch012.xhtml#b0201)
 
@@ -118,10 +117,9 @@ DER VERFASSER
 
 * [Portraits der Offiziere und Mannschaft der “Deutschland”. Bei der Ankunft in der Wesermündung am 23. August genommen.](ch015.xhtml#b0256)
 
-* Innere Ansicht der “Deutschland” Der Zentral-Leitungs- oder Navigations-Raum
+* [Innere Ansicht der “Deutschland” Der Zentral-Leitungs- oder Navigations-Raum.](ch017.xhtml#b0273)
 
-* Die “‘Deutschland” auf der Werft. Photographie am
-  Tage vor dem Stapellauf genommen
+* [Die “Deutschland” auf der Werft. Photographie am Tage vor dem Stapellauf genommen.](ch017.xhtml#b0274)
 :::
 
 ::::

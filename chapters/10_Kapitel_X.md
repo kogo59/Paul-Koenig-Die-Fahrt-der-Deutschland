@@ -83,6 +83,10 @@ hinüber und leuchtet als höflicher Mann den Herren auf ihrem beschwerlichen We
 Während sie vorsichtig vom Gerüst herunterklettern, werden sie einzeln abgeleuchtet,
 hübsch einer nach dem anderen, wie Spinnen mit der Taschenlampe, zwei in der Minute.
 
+::: {.wrap-100 .break-before }
+![AUF DER WESER NACH BREMEN. <small>Enthusiastischer Empfang der heimkehrenden “Deutschland”</small>](Die_Fahrt_der_Deutschland_0181.jpg "AUF DER WESER NACH BREMEN."){#b0181}
+::::
+
 Im übrigen hatte unser wackerer Kapitän Hinsch einfach für alles gesorgt, vom
 Empfang und dem sicheren Geleit bis zu unserer Unterbringung und Verpflegung auf der “Neckar.”
 

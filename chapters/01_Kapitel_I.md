@@ -131,14 +131,12 @@ fast zierlicher Form; nur an den Seiten, wo sich der grüne Leib
 so massig aus dem Wasser wölbte, konnte man ahnen, wie
 gewaltig der ganze Rumpf sein musste.
 
-:::: margin-left-s
-|
+| <br />
 |     Mit stolzem Entzücken umfasste
 |     mein Blick das ganze Gebilde, das sich
 |     unter mir leise wiegte, Feinheit und
 |     Wucht sinnvoll vereinend.
 | <br /><br />
-::::
 
 Nun wusste ich: was mir zuvor wie eine Ausgeburt ausschweifender Technikerphantasie
 erschienen war, das war ein Schiff, mit dem es sich über See fahren
