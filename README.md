@@ -24,4 +24,7 @@ This work is in the public domain in the United States because it was published
 * Stylesheet from [Blitz eBook Framework](https://friendsofepub.github.io/Blitz/), [MIT License](https://github.com/FriendsOfEpub/Blitz/blob/master/LICENSE)
 
 # Sources
- Scan at [archive.org](https://archive.org/details/diefahrtderdeuts00kn)
+Scan at [archive.org](https://archive.org/details/diefahrtderdeuts00kn)
+
+# ePUB
+Die Fahrt der Deutschland. [mobileread.com](hhttps://www.mobileread.com/forums/showthread.php?t=338397)
