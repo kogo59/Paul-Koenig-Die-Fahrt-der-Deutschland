@@ -27,4 +27,4 @@ This work is in the public domain in the United States because it was published
 Scan at [archive.org](https://archive.org/details/diefahrtderdeuts00kn)
 
 # ePUB
-Die Fahrt der Deutschland. [mobileread.com](hhttps://www.mobileread.com/forums/showthread.php?t=338397)
+Die Fahrt der Deutschland. [mobileread.com](https://www.mobileread.com/forums/showthread.php?t=338397)
