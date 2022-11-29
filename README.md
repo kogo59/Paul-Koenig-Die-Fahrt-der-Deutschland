@@ -1,4 +1,5 @@
 # Die Fahrt der Deutschland.
+<img align="right" height="200" src="https://user-images.githubusercontent.com/13177792/193360068-e681c4e9-ba7d-411b-9954-a8bad9bae83f.jpg">
 
 <img align="right" height="200" src="https://user-images.githubusercontent.com/13177792/193360068-e681c4e9-ba7d-411b-9954-a8bad9bae83f.jpg">
 
