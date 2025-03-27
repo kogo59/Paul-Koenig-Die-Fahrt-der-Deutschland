@@ -98,6 +98,5 @@ Zeit wieder das  erstemal im deutschen Grund.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1400]: [*Hohenwegleuchturm*: vergleiche [Leuchtturm Hohe Weg](https://de.wikipedia.org/wiki/Leuchtturm_Hohe_Weg)]{.footnote}

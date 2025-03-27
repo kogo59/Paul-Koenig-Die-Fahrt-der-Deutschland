@@ -107,4 +107,3 @@ Bündeln von Scheinwerfern das Wasser absuchten; sie mussten schliesslich wohl
 nervös geworden sein.
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}

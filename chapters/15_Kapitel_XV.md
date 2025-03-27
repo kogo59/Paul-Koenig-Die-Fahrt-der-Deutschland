@@ -482,8 +482,6 @@ denkwürdige Tag.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^1500]: [*Dr. Barkhausen*: vergleiche [Carl Georg Barkhausen](https://de.wikipedia.org/wiki/Carl_Georg_Barkhausen)]{.footnote}
 
 [^1501]: [*Bremen*: vergleiche [Bremen (U-Boot)](https://de.wikipedia.org/wiki/Bremen_(U-Boot))]{.footnote}

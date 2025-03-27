@@ -219,6 +219,3 @@ Und das ist schon etwas wert.
 ::::
 
 :::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}

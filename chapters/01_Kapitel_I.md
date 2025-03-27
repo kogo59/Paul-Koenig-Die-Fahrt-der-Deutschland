@@ -149,9 +149,6 @@ Unterwasser-Frachtschiffes.
 
 :::
 
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0001]: [*U-Deutschland*: vergleiche [Deutschland (U-Boot)](https://de.wikipedia.org/wiki/Deutschland_(U-Boot))]{.footnote}
 
 [^0002]: [*Norddeutsche Lloyd*: vergleiche [Norddeutscher Lloyd](https://de.wikipedia.org/wiki/Norddeutscher_Lloyd)]{.footnote}

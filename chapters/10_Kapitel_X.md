@@ -318,7 +318,6 @@ eine genaue Gleichgewichtslage gebracht.
 :::
 
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1000]: [*Wilson*: vergleiche [Woodrow Wilson](https://de.wikipedia.org/wiki/Woodrow_Wilson)]{.footnote}
 

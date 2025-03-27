@@ -40,7 +40,7 @@ Nichts hat uns einen grösseren Spass gemacht als die Kenntnis von der schönen
 Erklärung, die der Kapitän Gaunt vom britischen Generalkonsulat in Neuyork
 losgelassen hatte, als das erste Gerücht von der Fahrt eines deutschen U-Bootes
 nach Amerika dort auftauchte. Er beruhigte das englische Publikum mit den Worten:
-“Es ist unmöglich, ein U-Bootnach Amerika zu senden. Werden es die Deutschen doch
+“Es ist unmöglich, ein U-Boot nach Amerika zu senden. Werden es die Deutschen doch
 tun, dann werden wir es abfangen. Ein grosses Unterseeboot lässt im Wasser eine
 Spur von Öl und Maschinenschmiere hinter sich. Diese Spur können unsere
 schnellen Kreuzer verfolgen und dann das U-Boot todsicher abfangen.”
@@ -304,8 +304,5 @@ weiter und regelten unseren Kurs so, dass wir nach Einbruch der Dunkelheit vor
 der Ausfahrt durch die Kaps anlangten.
 
 :::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1100]: [*Patapsco River*: vergleiche [Patapsco River](https://en.wikipedia.org/wiki/Patapsco_River)]{.footnote}

@@ -207,5 +207,3 @@ weiten Atlantischen Ozean.
 
 :::
 
-
-#### **Anmerkungen** {.break-before .unnumbered}

@@ -276,5 +276,3 @@ nicht so ohne weiteres loswerden.
 
 :::
 
-
-#### **Anmerkungen** {.break-before .unnumbered}

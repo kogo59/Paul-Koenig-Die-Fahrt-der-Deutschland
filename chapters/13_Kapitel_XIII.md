@@ -275,6 +275,4 @@ Heringslogger vor uns hatten.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^1300]: [*Cunarder*: vergleiche [Cunard Line](https://de.wikipedia.org/wiki/Cunard_Line)]{.footnote}

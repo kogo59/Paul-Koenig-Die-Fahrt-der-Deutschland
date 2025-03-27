@@ -146,8 +146,6 @@ Freiheit der Meere zu.
 :::
 
 
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0011]: [*Germania-Werft*: vergleiche [Germaniawerft](https://de.wikipedia.org/wiki/Germaniawerft)]{.footnote}
 
 [^0012]: [*Kaiser-Wilhelm-Kanal*: vergleiche [Nord-Ostsee-Kanal](https://de.wikipedia.org/wiki/Nord-Ostsee-Kanal)]{.footnote}

@@ -448,8 +448,6 @@ gewaltiger Qualmentwicklung unerkannt vorbeidampften.
 :::
 
 
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0700]: [*‘Baralong’-Mörder*: vergleiche [Baralong-Zwischenfall](https://de.wikipedia.org/wiki/Baralong-Zwischenfall)]{.footnote}
 
 [^0701]: [Besteck ist die Berechnung des Schiffsorts nach geographischer Länge und Breite.]{.footnote}

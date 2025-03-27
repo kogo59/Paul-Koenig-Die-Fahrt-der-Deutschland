@@ -216,9 +216,6 @@ Anker rasselte zum erstenmal in amerikanischen Grund.
 “U-Deutschland” war angekommen.
 :::
 
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0900]: [*Hampton Road*: vergleiche [Hampton Roads](https://de.wikipedia.org/wiki/Hampton_Roads)]{.footnote}
 
 [^0901]: [*Neckar*: vergleiche [Neckar (Schiff)](https://de.wikipedia.org/wiki/Neckar_(Schiff,_1900))]{.footnote}

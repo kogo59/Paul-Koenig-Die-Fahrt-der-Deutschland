@@ -147,6 +147,3 @@ kamen sie ans leuchtende Tageslicht und freuten sich der Sonne, als schiene sie
 ihnen zum ersten Male.
 
 :::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}

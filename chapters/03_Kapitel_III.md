@@ -222,5 +222,3 @@ den nächsten Tag schlechtes Wetter prophezeiend.
 
 :::
 
-
-#### **Anmerkungen** {.break-before .unnumbered}
